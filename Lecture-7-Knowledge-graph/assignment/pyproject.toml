@@ -1,0 +1,14 @@
+[project]
+name = "assignment"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "langchain-community>=0.3.25",
+    "langchain-neo4j>=0.4.0",
+    "mem0ai>=0.1.106",
+    "openai>=1.86.0",
+    "pathlib>=1.0.1",
+    "rank-bm25>=0.2.2",
+]
