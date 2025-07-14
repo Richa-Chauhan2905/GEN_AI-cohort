@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "my-server": {
+      "command": "cmd",
+      "args": ["/c", "C:/mcp/my-server.bat"]
+    }
+  }
+}
